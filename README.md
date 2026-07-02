@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/RATNA2005/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/RATNA2005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/RATNA2005/LeetCode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/RATNA2005/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/RATNA2005/LeetCode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/RATNA2005/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1480-running-sum-of-1d-array](https://github.com/RATNA2005/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/RATNA2005/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/RATNA2005/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/RATNA2005/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/RATNA2005/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RATNA2005/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/RATNA2005/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RATNA2005/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
