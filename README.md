@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/RATNA2005/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/RATNA2005/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/RATNA2005/LeetCode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/RATNA2005/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/RATNA2005/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/RATNA2005/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/RATNA2005/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RATNA2005/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/RATNA2005/LeetCode/tree/master/0509-fibonacci-number) |
 ## Hash Table
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RATNA2005/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/RATNA2005/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
