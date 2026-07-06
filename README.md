@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/RATNA2005/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/RATNA2005/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RATNA2005/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1288-remove-covered-intervals](https://github.com/RATNA2005/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/RATNA2005/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1480-running-sum-of-1d-array](https://github.com/RATNA2005/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RATNA2005/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RATNA2005/LeetCode/tree/master/0088-merge-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/RATNA2005/LeetCode/tree/master/1288-remove-covered-intervals) |
 ## Binary Search
 |  |
 | ------- |
