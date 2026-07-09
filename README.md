@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/RATNA2005/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/RATNA2005/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/RATNA2005/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0611-valid-triangle-number](https://github.com/RATNA2005/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/RATNA2005/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/RATNA2005/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0766-toeplitz-matrix](https://github.com/RATNA2005/LeetCode/tree/master/0766-toeplitz-matrix) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/RATNA2005/LeetCode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RATNA2005/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/RATNA2005/LeetCode/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/RATNA2005/LeetCode/tree/master/0611-valid-triangle-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -111,12 +113,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RATNA2005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RATNA2005/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/RATNA2005/LeetCode/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/RATNA2005/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1288-remove-covered-intervals](https://github.com/RATNA2005/LeetCode/tree/master/1288-remove-covered-intervals) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RATNA2005/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RATNA2005/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0611-valid-triangle-number](https://github.com/RATNA2005/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/RATNA2005/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RATNA2005/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RATNA2005/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/RATNA2005/LeetCode/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/RATNA2005/LeetCode/tree/master/0611-valid-triangle-number) |
 ## Simulation
 |  |
 | ------- |
