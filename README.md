@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/RATNA2005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/RATNA2005/LeetCode/tree/master/0344-reverse-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RATNA2005/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RATNA2005/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/RATNA2005/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/RATNA2005/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RATNA2005/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/RATNA2005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RATNA2005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RATNA2005/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RATNA2005/LeetCode/tree/master/0202-happy-number) |
