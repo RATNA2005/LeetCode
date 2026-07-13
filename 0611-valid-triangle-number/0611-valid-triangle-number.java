@@ -1,5 +1,4 @@
 import java.util.Arrays;
-
 class Solution {
     public int triangleNumber(int[] nums) {
         Arrays.sort(nums);
