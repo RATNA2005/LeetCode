@@ -8,8 +8,8 @@ class Solution {
             if(nums[slow]!=nums[fast])
             {
                 slow++;
-            nums[slow]=nums[fast];
-        }
+                nums[slow]=nums[fast];
+            }
         }
         return slow+1;
     }
