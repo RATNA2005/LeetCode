@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/RATNA2005/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RATNA2005/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RATNA2005/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/RATNA2005/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RATNA2005/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RATNA2005/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RATNA2005/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RATNA2005/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RATNA2005/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/RATNA2005/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/RATNA2005/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/RATNA2005/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Sorting
 |  |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RATNA2005/LeetCode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/RATNA2005/LeetCode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/RATNA2005/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/RATNA2005/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/RATNA2005/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RATNA2005/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/RATNA2005/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RATNA2005/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/RATNA2005/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/RATNA2005/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Queue
 |  |
 | ------- |
