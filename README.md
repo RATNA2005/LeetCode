@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/RATNA2005/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RATNA2005/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RATNA2005/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1670-design-front-middle-back-queue](https://github.com/RATNA2005/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/RATNA2005/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RATNA2005/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RATNA2005/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/RATNA2005/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/RATNA2005/LeetCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RATNA2005/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1670-design-front-middle-back-queue](https://github.com/RATNA2005/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/RATNA2005/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RATNA2005/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/RATNA2005/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/RATNA2005/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/RATNA2005/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/RATNA2005/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
@@ -393,12 +396,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/RATNA2005/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/RATNA2005/LeetCode/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/RATNA2005/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/RATNA2005/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/RATNA2005/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/RATNA2005/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 ## Segment Tree
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RATNA2005/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/RATNA2005/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
