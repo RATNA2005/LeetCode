@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RATNA2005/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RATNA2005/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/RATNA2005/LeetCode/tree/master/0231-power-of-two) |
+| [0445-add-two-numbers-ii](https://github.com/RATNA2005/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/RATNA2005/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RATNA2005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RATNA2005/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/RATNA2005/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RATNA2005/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RATNA2005/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/RATNA2005/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/RATNA2005/LeetCode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/RATNA2005/LeetCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RATNA2005/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/RATNA2005/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RATNA2005/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/RATNA2005/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/RATNA2005/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/RATNA2005/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RATNA2005/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RATNA2005/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
