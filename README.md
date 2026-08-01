@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/RATNA2005/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/RATNA2005/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/RATNA2005/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/RATNA2005/LeetCode/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/RATNA2005/LeetCode/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/RATNA2005/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0622-design-circular-queue](https://github.com/RATNA2005/LeetCode/tree/master/0622-design-circular-queue) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/RATNA2005/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/RATNA2005/LeetCode/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/RATNA2005/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/RATNA2005/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/RATNA2005/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RATNA2005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RATNA2005/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/RATNA2005/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/RATNA2005/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RATNA2005/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/RATNA2005/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/RATNA2005/LeetCode/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RATNA2005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RATNA2005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/RATNA2005/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0486-predict-the-winner](https://github.com/RATNA2005/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/RATNA2005/LeetCode/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RATNA2005/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/RATNA2005/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -464,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RATNA2005/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/RATNA2005/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
