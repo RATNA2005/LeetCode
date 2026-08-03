@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/RATNA2005/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0766-toeplitz-matrix](https://github.com/RATNA2005/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/RATNA2005/LeetCode/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/RATNA2005/LeetCode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/RATNA2005/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RATNA2005/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0948-bag-of-tokens](https://github.com/RATNA2005/LeetCode/tree/master/0948-bag-of-tokens) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RATNA2005/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/RATNA2005/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RATNA2005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/RATNA2005/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RATNA2005/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RATNA2005/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RATNA2005/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/RATNA2005/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/RATNA2005/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/RATNA2005/LeetCode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/RATNA2005/LeetCode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RATNA2005/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/RATNA2005/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/RATNA2005/LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
@@ -475,4 +478,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RATNA2005/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/RATNA2005/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
