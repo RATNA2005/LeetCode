@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RATNA2005/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RATNA2005/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RATNA2005/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RATNA2005/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RATNA2005/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/RATNA2005/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RATNA2005/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/RATNA2005/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RATNA2005/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RATNA2005/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RATNA2005/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2404-most-frequent-even-element](https://github.com/RATNA2005/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RATNA2005/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RATNA2005/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RATNA2005/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2404-most-frequent-even-element](https://github.com/RATNA2005/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RATNA2005/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/RATNA2005/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
