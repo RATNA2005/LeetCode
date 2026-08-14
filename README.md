@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/RATNA2005/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0948-bag-of-tokens](https://github.com/RATNA2005/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/RATNA2005/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/RATNA2005/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/RATNA2005/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/RATNA2005/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/RATNA2005/LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/RATNA2005/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RATNA2005/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RATNA2005/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0997-find-the-town-judge](https://github.com/RATNA2005/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/RATNA2005/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RATNA2005/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RATNA2005/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/RATNA2005/LeetCode/tree/master/0997-find-the-town-judge) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RATNA2005/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RATNA2005/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RATNA2005/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
