@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/RATNA2005/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/RATNA2005/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/RATNA2005/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RATNA2005/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RATNA2005/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/RATNA2005/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/RATNA2005/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/RATNA2005/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/RATNA2005/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/RATNA2005/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/RATNA2005/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/RATNA2005/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/RATNA2005/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/RATNA2005/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Ordered Set
 |  |
 | ------- |
