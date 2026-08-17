@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/RATNA2005/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RATNA2005/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/RATNA2005/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1563-stone-game-v](https://github.com/RATNA2005/LeetCode/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RATNA2005/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1670-design-front-middle-back-queue](https://github.com/RATNA2005/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/RATNA2005/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/RATNA2005/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/RATNA2005/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RATNA2005/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/RATNA2005/LeetCode/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RATNA2005/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/RATNA2005/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RATNA2005/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/RATNA2005/LeetCode/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RATNA2005/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/RATNA2005/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/RATNA2005/LeetCode/tree/master/1563-stone-game-v) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RATNA2005/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RATNA2005/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RATNA2005/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/RATNA2005/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/RATNA2005/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RATNA2005/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/RATNA2005/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/RATNA2005/LeetCode/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
