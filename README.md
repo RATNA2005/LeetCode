@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/RATNA2005/LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/RATNA2005/LeetCode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/RATNA2005/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/RATNA2005/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RATNA2005/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0948-bag-of-tokens](https://github.com/RATNA2005/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/RATNA2005/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/RATNA2005/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/RATNA2005/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/RATNA2005/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/RATNA2005/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/RATNA2005/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/RATNA2005/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RATNA2005/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/RATNA2005/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RATNA2005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/RATNA2005/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/RATNA2005/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/RATNA2005/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/RATNA2005/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/RATNA2005/LeetCode/tree/master/1288-remove-covered-intervals) |
