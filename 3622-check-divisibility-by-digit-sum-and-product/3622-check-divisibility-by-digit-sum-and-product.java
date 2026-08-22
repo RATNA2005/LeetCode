@@ -1,0 +1,22 @@
+import java.util.*;
+
+class Solution {
+    public boolean checkDivisibility(int n) {
+        int temp = n;
+        int sum = 0;
+        int product = 1;
+
+        while (temp > 0) {
+            int digit = temp % 10;
+
+            sum += digit;
+            product *= digit;
+
+            temp /= 10;
+        }
+
+        int result = sum + product;
+
+        return n % result == 0;
+    }
+}
