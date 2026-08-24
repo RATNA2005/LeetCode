@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1191-k-concatenation-maximum-sum](https://github.com/RATNA2005/LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1260-shift-2d-grid](https://github.com/RATNA2005/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/RATNA2005/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/RATNA2005/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/RATNA2005/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/RATNA2005/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/RATNA2005/LeetCode/tree/master/1406-stone-game-iii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/RATNA2005/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RATNA2005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/RATNA2005/LeetCode/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/RATNA2005/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/RATNA2005/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/RATNA2005/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RATNA2005/LeetCode/tree/master/1563-stone-game-v) |
