@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/RATNA2005/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/RATNA2005/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/RATNA2005/LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
+| [1254-number-of-closed-islands](https://github.com/RATNA2005/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/RATNA2005/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/RATNA2005/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RATNA2005/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/RATNA2005/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/RATNA2005/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/RATNA2005/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/RATNA2005/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RATNA2005/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RATNA2005/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RATNA2005/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/RATNA2005/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RATNA2005/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RATNA2005/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RATNA2005/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/RATNA2005/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/RATNA2005/LeetCode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/RATNA2005/LeetCode/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/RATNA2005/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/RATNA2005/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/RATNA2005/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1672-richest-customer-wealth](https://github.com/RATNA2005/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -580,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/RATNA2005/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/RATNA2005/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RATNA2005/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/RATNA2005/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1382-balance-a-binary-search-tree](https://github.com/RATNA2005/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RATNA2005/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/RATNA2005/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
